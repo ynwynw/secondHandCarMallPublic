@@ -15,7 +15,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt)158
+## 基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt+开题)158
 
 ## 一、系统介绍
 本项目前后端分离(可以改为ssm版本)，分为用户、管理员两种角色
